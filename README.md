@@ -1,3 +1,3 @@
 # Git
 
-Gwen Faraday!
+Gwendolyn Faraday!
